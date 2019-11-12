@@ -18,7 +18,7 @@ We might guess that this specific data set clusters into 4 groups with the group
 
 1. Define a number of __anchor points__ around which to center our clusters. The number of anchor points determines the number of clusters for our analysis and can be any number that we select, however, if we select too few (e.g. 1) or too many (e.g. equal to the number of data points) clusters, this may not give us any insight into our data.
 
-![alt text]()
+![alt text](https://github.com/jhu-business-analytics/cluster-analysis-excel-example/blob/master/screenshots/cluster_anchors.png)
 
 2. Calculate the distance between each data point and each of the anchor points. 
 
