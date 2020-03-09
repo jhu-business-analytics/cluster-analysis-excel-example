@@ -15,6 +15,10 @@ With this data (at least from the life science departments), we can group seemin
 - [Next Generation Life Science](http://nglscoalition.org/coalition-data/#close) Coalition Data from Johns Hopkins University PhD and Postdoctoral [Career Outcomes](https://provost.jhu.edu/education/graduate-and-professional-education/cngls/career-outcomes-tabular-format/)
 - [Tabula](https://tabula.technology/) to transform the JHU NGLS data into a csv from a PDF format
 
+## Relevant Repository Files
+ - [CSV export of JHU PhD and Postdoctoral Career Outcomes using Tabula](https://github.com/jhu-business-analytics/cluster-analysis-excel-example/blob/master/tabula-Career-Outcome-ADA-Tables-Final.csv)
+ - [Final Cluster Analysis Excel analysis on 5-year career sector post-graduation](https://github.com/jhu-business-analytics/cluster-analysis-excel-example/blob/master/tabula-Career-Outcome-ADA-Tables-Final-business-analytics.xlsx)
+
 ## Cluster Analysis with Excel
 
 ## Data Results
